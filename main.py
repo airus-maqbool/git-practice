@@ -4,4 +4,4 @@ for i in range(10):
 print("A")
 print("B")
 print("Tehreem")
-print("Airus Maida Maria")
+print("Airus Maria Maida")
